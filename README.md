@@ -1,6 +1,6 @@
 # Autonomous_Vehicle_Detection and Classification using OpenCV and YOLO
 
-This project demonstrates vehicle counting and classification using OpenCV and the YOLO (You Only Look Once) object detection model. It can analyze both real-time video streams and static images to count and classify vehicles. 
+This project demonstrates vehicle counting and classification using OpenCV and the YOLOv3(You Only Look Once) object detection model. It can analyze both real-time video streams to count and classify vehicles. 
 
 ## Table of Contents
 
