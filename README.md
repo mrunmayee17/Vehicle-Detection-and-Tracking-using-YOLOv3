@@ -14,7 +14,7 @@ This project demonstrates vehicle counting and classification using OpenCV and t
 - Python 3.x
 - OpenCV
 - NumPy
-- YOLOv3 model configuration and weights files (Download from [YOLO website](https://pjreddie.com/darknet/yolo/))
+- YOLOv3 model configuration and weights files(YOLOv3-320 cfg and weights) (Download from [YOLO website](https://pjreddie.com/darknet/yolo/))
 - 'coco.names' file containing the class names
 
 <img width="272" alt="Screenshot 2023-04-27 at 12 56 56 AM" src="https://github.com/mrunmayee17/Autonomous_Vehicle_Detection/assets/48186569/cc193479-cfd3-4ef4-83b0-4e5cebb265be">
