@@ -18,6 +18,8 @@ This project demonstrates vehicle counting and classification using OpenCV and t
 - 'coco.names' file containing the class names
 
 <img width="272" alt="Screenshot 2023-04-27 at 12 56 56 AM" src="https://github.com/mrunmayee17/Autonomous_Vehicle_Detection/assets/48186569/cc193479-cfd3-4ef4-83b0-4e5cebb265be">
+<img width="274" alt="Screenshot 2023-09-15 at 6 47 36 AM" src="https://github.com/mrunmayee17/Autonomous_Vehicle_Detection-and-Classification-using-OpenCV-and-YOLO/assets/48186569/606d6cd6-819d-459d-b5d0-f9338d1007c5">
+
 
 ### Real-time Vehicle Counting and Classification
 
